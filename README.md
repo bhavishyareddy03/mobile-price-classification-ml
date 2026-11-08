@@ -10,8 +10,8 @@ The objective of this project is to classify mobile phones into four distinct pr
 - **Target:** `price_range` (Multiclass: 0, 1, 2, 3)
 
 ## c. Repository & Deployment Links
-- **GitHub Repository Link:** <YOUR_GITHUB_REPO_URL>
-- **Live Streamlit App Link:** <YOUR_STREAMLIT_APP_URL>
+- **GitHub Repository Link:** https://github.com/bhavishyareddy03/mobile-price-classification-ml
+- **Live Streamlit App Link:** https://mobile-price-classification-ml-o4mgwk5roqwpudcmf9kl47.streamlit.app/
 
 ## d. Model Comparison Table
 | ML Model Name | Accuracy | AUC | Precision | Recall | F1 | MCC |
